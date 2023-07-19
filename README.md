@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frod9
-- 👀 I’m interested in game hacking, reverse engineering and general programming
+- 👀 I’m interested in my private repositories
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me ...
